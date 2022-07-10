@@ -1,0 +1,137 @@
+{
+
+  "saleItems": [
+    {
+      "sys": { "id": "101" },
+      "fields": {
+        "title": "wired Rockerz 450",
+        "price": 1099,
+        "originalprice": 3999,
+        "image": { "fields": { "file": { "url": "./images/product-13.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "102" },
+      "fields": {
+        "title": "Rockerz 255 Pro+",
+        "price": 2999,
+        "originalprice": 5999,
+        "image": { "fields": { "file": { "url": "./images/product-14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "103" },
+      "fields": {
+        "title": "Bolt lite",
+        "price": 3999,
+        "originalprice": 6999,
+        "image": { "fields": { "file": { "url": "./images/product-15.jpg" } } }
+      }
+    }
+  ],
+    "headphones": [
+      {
+        "sys": { "id": "201" },
+        "fields": {
+          "title": "Bassheads 950v2",
+          "price": 899,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "202" },
+        "fields": {
+          "title": "Nirvanaa 751 ANC",
+          "price": 3999,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "203" },
+        "fields": {
+          "title": "immortal 400",
+          "price": 1999,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+        }
+      }
+    ],
+
+     "airdopes" : [
+         {
+        "sys": { "id": "301" },
+        "fields": {
+          "title": "AIRDOPES 281 PRO",
+          "price": 2999,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "302" },
+        "fields": {
+          "title": "AIRDOPES 402",
+          "price": 4999,
+          "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "303" },
+        "fields": {
+          "title": "AIRDOPES 651",
+          "price": 3299,
+          "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+        }
+      }
+    ],
+    "watches": [
+      {
+        "sys": { "id": "401" },
+        "fields": {
+          "title": "WATCH MERCURY",
+          "price": 2499,
+          "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "402" },
+        "fields": {
+          "title": "WATCH XTEND",
+          "price": 2999,
+          "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "403" },
+        "fields": {
+          "title": "STORM",
+          "price": 2999,
+          "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+        }
+      }
+    ],
+    "earphones": [
+      {
+        "sys": { "id": "501" },
+        "fields": {
+          "title": "Bassheads 100",
+          "price": 379,
+          "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+        }
+      },
+        {
+            "sys": { "id": "502" },
+            "fields": {
+              "title": "Bassheads 120",
+              "price": 379,
+              "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "503" },
+            "fields": {
+              "title": "Bassheads 130",
+              "price": 379,
+              "image": { "fields": { "file": { "url": "./images/product-12.jpg" } } }
+            }
+        }
+    ]
+  }
